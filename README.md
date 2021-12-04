@@ -1,6 +1,6 @@
 # git-Learning
 git Learning for
-<<<<<<< HEAD
+这是冲突
 
 这是冲突测试
 =======
